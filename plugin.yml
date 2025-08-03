@@ -1,0 +1,15 @@
+name: ReloadConfig
+main: KianRastegar\ReloadConfig\Main
+version: 1.0.0
+api: 5.0.0
+author: Kian
+description: Reloads all plugin config files!
+commands:
+  reload:
+    description: Reload all plugin configs
+    usage: "/reload"
+    permission: server.reload
+permissions:
+  server.reload:
+    description: Allows using /reload to reload all configs
+    default: op
