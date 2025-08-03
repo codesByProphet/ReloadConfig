@@ -15,7 +15,3 @@ A simple PocketMine-MP plugin to reload all plugin config files with one command
 ## 🔐 Permission
 
 - `server.reload` (default: OP)
-
-## ✅ Info
-
-- API: 5.0.0
